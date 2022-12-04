@@ -1,0 +1,16 @@
+nav.navbar {
+    background-color: var(--bg-menu);
+    text-align: right;
+
+}
+.navbar a{    
+    text-decoration: none;
+    color: #000;
+    padding: 10px;
+    font-size: 30px;
+    padding: 5px;
+    margin-top: 20px;
+}
+.navbar a:hover {
+    color: #538cc6;
+}
